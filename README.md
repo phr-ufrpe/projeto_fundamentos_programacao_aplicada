@@ -1,4 +1,4 @@
-# Fundamentos de Programação Aplicada
+# Disciplina: Fundamentos de Programação Aplicada
 ## Licença do Projeto
 Em breve.
 
