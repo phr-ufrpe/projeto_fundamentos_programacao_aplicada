@@ -6,6 +6,7 @@ Em breve.
 O App Serpentes Pernambucanas tem como finalidade auxiliar profissionais da saúde, vítimas de picadas de serpentes e a população geral, a respeito dos mais variados tipos de serpentes encontradas no Estado de Pernambuco, permitindo a realização de consultas sobre os tipos de serpentes, apresentação de medidas de prevenção, informação a respeito das ocorrências no Estado, orientação do ponto mais próximo de estoque de soros antiveneno, assim como, orientar o profissional de saúde na escolha do soro específico para o tipo de espécie que a vítima sofreu a lesão.
 
 ## Layout Mobile
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 Em breve.
 
 ## Modelo Conceitual
