@@ -9,6 +9,10 @@ O App Serpentes Pernambucanas tem como finalidade auxiliar profissionais da saú
 
 (https://kvojps.github.io/serpentes-pe/)
 
+## Vídeo de Apresentação do Aplicativo Serpentes PE
+
+(https://youtu.be/VwrR5vitF9M)
+
 ## Logotipo do Projeto
 <img src="./Projeto Serpentes PE.png">
 
