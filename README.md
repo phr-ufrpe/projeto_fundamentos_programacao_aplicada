@@ -9,7 +9,7 @@ O App Serpentes Pernambucanas tem como finalidade auxiliar profissionais da saú
 <img src="./Projeto Serpentes PE.png">
 
 ## Layout Mobile
-<img src="./tela01.png"> <img src="./tela02.png"> <img src="./tela03.png"> <img src="./tela04.png"> <img src="./tela05.png"> <img src="./tela06.png"> <img src="./tela07.png"> <img src="./tela08.png"> <img src="./tela09.png"> <img src="./tela10.png"> <img src="./tela11.png"> <img src="./tela12.png"> <img src="./tela13.png"> 
+<img src="./tela01.png"> <img src="./tela02.png"> <img src="./tela03.png"> <img src="./tela04.png"> 
 
 ## Widget Tree
 <img src="./Widget Tree.jpg">
