@@ -1,40 +1,16 @@
-# Disciplina: Fundamentos de Programação Aplicada
-## Licença do Projeto
-Em breve.
+# projeto_serpentes_pe
 
-## Sobre o Projeto
-O App Serpentes Pernambucanas tem como finalidade auxiliar profissionais da saúde, vítimas de picadas de serpentes e a população geral, a respeito dos mais variados tipos de serpentes encontradas no Estado de Pernambuco, permitindo a realização de consultas sobre os tipos de serpentes, apresentação de medidas de prevenção, informação a respeito das ocorrências no Estado, orientação do ponto mais próximo de estoque de soros antiveneno, assim como, orientar o profissional de saúde na escolha do soro específico para o tipo de espécie que a vítima sofreu a lesão.
+A new Flutter project.
 
-## Página Web do Projeto Serpentes PE
+## Getting Started
 
-(https://kvojps.github.io/serpentes-pe/)
+This project is a starting point for a Flutter application.
 
-## Logotipo do Projeto
-<img src="./Projeto Serpentes PE.png">
+A few resources to get you started if this is your first Flutter project:
 
-## Layout Mobile
-<img src="./Tela01.png"> <img src="./Tela02.png"> <img src="./Tela03.png"> <img src="./Tela04.png"> 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## Widget Tree
-<img src="./Widget Tree.jpg">
-
-## Navegação
-<img src="./01.jpg"> <img src="./02.jpg"> <img src="./03.jpg"> <img src="./04.jpg">
-
-## Back End
-- Firebase
-- Back4app
-- Parse
-- Backendless
-- AWS Amplify
-
-## Front End
-- Flutter
-
-## Como instalar o App
-O aplicativo estará disponível para download nas plataformas: Android e iOS, com um adendo, que a funcionalidade geolocalização inicialmente vai requerer conexão com a Internet.
-
-## Autor
-Paulo Henrique Ramos.
-
-E-mail: phrinformatica@gmail.com
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
