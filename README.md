@@ -16,7 +16,7 @@ O App Serpentes Pernambucanas tem como finalidade auxiliar profissionais da saú
 <img src="./Tela01.png"> <img src="./Tela02.png"> <img src="./Tela03.png"> <img src="./Tela04.png"> 
 
 ## Widget Tree
-<img src="./Widget Tree.jpg">
+<img src="./organograma.png">
 
 ## Navegação
 <img src="./01.jpg"> <img src="./02.jpg"> <img src="./03.jpg"> <img src="./04.jpg">
