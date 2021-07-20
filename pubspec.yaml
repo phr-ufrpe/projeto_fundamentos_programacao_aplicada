@@ -1,0 +1,120 @@
+name: projeto_serpentes_pe
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cloud_firestore: ^2.1.0
+  geoflutterfire: ^3.0.0-nullsafety.2
+  geolocator: ^7.0.0
+  google_maps_flutter: ^2.0.3
+  dio: ^4.0.0
+  flutter_polyline_points: ^0.2.6
+   
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  url_launcher: ^5.1.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+      - lib/images/coral.jpg
+      - lib/images/sobre64.png
+      - lib/images/prevencao64.png
+      - lib/images/socorro64.png
+      - lib/images/primeiros_socorros.png
+      - lib/images/serpente64.png
+      - lib/images/telefone.png
+      - lib/images/local64.png
+      - lib/images/medico64.png
+
+      - lib/images/coral_verdadeira.jpg
+      - lib/images/coral_falsa.jpg
+      - lib/images/jararaca.jpg
+      - lib/images/cascavel.jpeg
+      - lib/images/surucucu.jpg
+
+      - lib/images/primeiros-socorros.jpg
+      - lib/images/answer64.png
+      - lib/images/prevencao.jpg
+
+      - lib/images/faleconosco.png
+
+      - lib/images/juliana.png
+      - lib/images/junior.png
+      - lib/images/ivaldir.png
+      - lib/images/lucineide.jpeg
+      - lib/images/paulo.png
+      - lib/images/lista256.png
+      - lib/images/socorro256.png
+      
+      - lib/images/arcoverde.jpg
+      - lib/images/hmv.jpg
+      - lib/images/hrfb.jpg
+      - lib/images/universitario.jpg
+      - lib/images/restauracao.jpg
+      - lib/images/inacio.jpg
+      - lib/images/agamenon.jpg
+
+  # - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
